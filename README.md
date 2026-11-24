@@ -6,7 +6,7 @@ Written by **Samiru Ninduwara**, NVQ Level 4 Network Technician student.
 
 <p align="center">
   <a href="https://github.com/SamiruNinduwara/Network-Configuration-Handbook/releases/download/handbook/Network-Configuration-Handbook.pdf">
-    <img src="https://img.shields.io/badge/Download%20PDF-Network%20Configuration%20Handbook-1B998B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download the PDF"
+     <img src="https://img.shields.io/badge/Download%20PDF-Network%20Configuration%20Handbook-1B998B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download the PDF"
       <img src="https://img.shields.io/badge/Download%20PDF-...&logoColor=white" alt="Download the PDF" width="480"/>
   </a>
 </p>
