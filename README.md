@@ -4,7 +4,12 @@ A 39-page, side-by-side command reference for **Cisco IOS**, **Huawei VRP** and 
 
 Written by **Samiru Ninduwara**, NVQ Level 4 Network Technician student.
 
-> **Download:** [`Network-Configuration-Handbook.pdf`](Network-Configuration-Handbook.pdf)
+<p align="center">
+  <a href="https://github.com/SamiruNinduwara/Network-Configuration-Handbook/releases/download/handbook/Network-Configuration-Handbook.pdf">
+    <img src="https://img.shields.io/badge/Download%20PDF-Network%20Troubleshooting%20Handbook-1B998B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download the PDF"
+      <img src="https://img.shields.io/badge/Download%20PDF-...&logoColor=white" alt="Download the PDF" width="480"/>
+  </a>
+</p>
 
 ---
 
